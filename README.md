@@ -17,7 +17,10 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMarquessantos&show_icons=true&theme=dracula&locale=pt-br&title_color=0077B6&icon_color=0077B6"/>
 </div>
-
+<a href="https://github.com/PedroMarquessantos">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquessantos&layout=compact&langs_count=10&theme=dracula&locale=pt-br&title_color=0077B6"/>
+    
+    
 <!-- Tecnologias -->    
 <h2>Tecnologias que uso diariamente</h2>
 
